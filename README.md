@@ -1,6 +1,6 @@
 # Cloudflare Workers React Boilerplate
 
-[![[cloudflarebutton]]](https://deploy.workers.cloudflare.com/?url=${repositoryUrl})
+[![[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ArberieSinani/hausmeister-premium-ios-style-landing-page)]](https://deploy.workers.cloudflare.com/?url=${repositoryUrl})
 
 A production-ready full-stack boilerplate for building scalable applications with Cloudflare Workers. Features a modern React frontend with Vite, Tailwind CSS, shadcn/ui components, TanStack Query, and a powerful backend using Hono, Durable Objects for entity-based state management (Users, Chats), and shared TypeScript types.
 
@@ -111,7 +111,7 @@ bun deploy
 
 Or use the one-click deploy:
 
-[![[cloudflarebutton]]](https://deploy.workers.cloudflare.com/?url=${repositoryUrl})
+[![[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ArberieSinani/hausmeister-premium-ios-style-landing-page)]](https://deploy.workers.cloudflare.com/?url=${repositoryUrl})
 
 **Custom Domain**: Update `wrangler.jsonc` and run `wrangler deploy`.
 
